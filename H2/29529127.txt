@@ -1,0 +1,19 @@
+Data for human development.csv taken from: http://hdr.undp.org/sites/default/files/reports/14/hdr2013_en_complete.pdf
+All variables measured in 2012 or as close to 2012 as was available---see above source for details
+
+Variable codebook:
+variable description---variable name
+Human development indicator rank relative to all other countries in the data---hdi_rank
+Country name---name of country in text
+HDI Index value---human development indicator index value 2013---high means better human development
+Life expectancy at birth---life_expectancy
+Mean years schooling for adults aged 25 and older---mean_years_schooling
+Expected years of schooling for children of school age---expected_years_schooling
+Gross national income per capita---gni_per_capita
+
+Women's labor force codebook (laborforce.csv):
+
+Time = year of observation (all 2012 to match HDI data)
+Country Name---name of country in text
+Country Code---3 letter country code for country (ISO-3166, see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-3)
+womenlaborforce---Labor force participation rate, female (% of female population ages 15-64)

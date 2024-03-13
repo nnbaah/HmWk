@@ -1,0 +1,10 @@
+Data set: Productivity and related data, business sector, 1960–2005 USA from Bureau of Labor Statistics
+All compensation figures are index numbers controlled for inflation, where 1992=100 is the baseline value
+
+Variables---Description
+
+year---year of observation
+productivitybusiness---output per hour of all persons in entire business sector (real GDP output)
+productivitynonfarm---ouput per hour of all persons in business sectors excluding farming
+compensationbusiness---hourly compensation of all persons in entire business sector
+compensationnonfarm---hourly compensation of all persons in business sectors excluding farming

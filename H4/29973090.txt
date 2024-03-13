@@ -1,0 +1,7 @@
+Electric company experiment data
+
+City---city subject lives in
+grade---grade level of child in study
+group---whether child received the treatment or did not
+pretest---score child received on test before receiving treatment or control (nothing) of electric company
+posttest---score child received on test after receiving treatment/control of electric company

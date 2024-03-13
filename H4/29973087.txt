@@ -1,0 +1,9 @@
+Labor data of sample of indian workers, mostly low wage.
+
+weeklywage---Weekly wage in 1990 rupees
+age---Age in years
+primaryeducation---primary education is the worker's highest level of education attained = 1
+secondaryeducation---secondary education is the worker's highest level of education attained = 1
+highersecondary---highest education level attained is higher than secondary education = 1
+permanentjob---worker has a permanent job = 1
+gender---man = 0, woman = 1
